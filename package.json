@@ -1,0 +1,19 @@
+{
+  "name": "js-sleep",
+  "description": "Pause the execution the specifed number of milliseconds (Browser and Node).",
+  "version": "1.0",
+  "keywords": [
+    "sleep",
+    "async sleep",
+    "sleep ms",
+    "javascript sleep",
+    "browser sleep"
+  ],
+  "author": "colxi",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colxi/js-sleep.git"
+  },
+  "dependencies": {}
+}
