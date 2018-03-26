@@ -1,7 +1,7 @@
 {
   "name": "js-sleep",
   "description": "Pause the execution the specifed number of milliseconds (Browser and Node).",
-  "version": "1.0",
+  "version": "1.0.0",
   "keywords": [
     "sleep",
     "async sleep",
