@@ -6,14 +6,14 @@
 
 Pauses the execution (without freezing the Browser/thread) the requested ammount of milliseconds.
 
-The implementaton in based in the native `Promises`, and requires the usage of `await`.
+The implementaton in based in the native JS `Promises`, and requires the usage of `await`.
 
     
 ```javascript
-asymc function main(){
-	// some code...
-	await sleep(1000);
-    // continue execution...
+async function main(){
+  // some code...
+  await sleep(1000);
+  // continue execution...
 }
 ```
 
